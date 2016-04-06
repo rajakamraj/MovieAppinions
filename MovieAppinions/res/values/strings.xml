@@ -1,0 +1,32 @@
+
+<resources>
+
+    <string name="app_name">Movie Appinions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_home">Home</string>
+
+	<string name="title_activity_movie_review_fragment">MovieReviewFragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="appTitle">Movie Appinions</string>
+    <string name="ratingText">Ratings:</string>
+    <string name="releaseDate">Release Date:</string>
+    <string name="review">Review:</string>
+    <string name="fullPlot">Full Plot:</string>
+    <string name="saveButton">Save</string>
+    <string name="friendsButton">Friend\'s Review</string>
+    <string name="searchForAMovie">Enter Search Term:</string>
+    <string name="exampleSearchTerm">Toy Story</string>
+    <string name="searchButton">Search</string>
+    <string name="sortByMovieNameAscending">Sort by Movie Name A-Z</string>
+    <string name="sortByYearAscending">Sort by Release Date 1-10</string>
+    <string name="sortByRatingAscending">Sort by Ratings 1-10</string>
+    <string name="sortByMovieNameDescending">Sort by Movie Name Z-A</string>
+    <string name="sortByRatingDescending">Sort by Ratings 10-1</string>
+    <string name="sortByYearDescending">Sort by Release Date 10-1</string>
+    <string name="sortByNameAscending">Sort by  Name A - Z</string>
+    <string name="sortByNameDescending">Sort By Name Z - A</string>
+    <string name="sortByReviewsAscending">Sort by Reviews 1-10</string>
+    <string name="sortByReviewsDescending">Sort by Reviews 10 - 1</string>
+</resources>

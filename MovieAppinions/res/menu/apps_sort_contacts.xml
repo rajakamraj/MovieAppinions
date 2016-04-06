@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@string/sortByNameAscending" android:title="@string/sortByNameAscending"></item>
+    <item android:id="@string/sortByNameDescending" android:title="@string/sortByNameDescending"></item>
+    <item android:id="@string/sortByReviewsAscending" android:title="@string/sortByReviewsAscending"></item>
+    <item android:id="@string/sortByReviewsDescending" android:title="@string/sortByReviewsDescending"></item>
+    
+
+</menu>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test.MainActivity" >
+  
+      <item android:id="@string/sortByMovieNameAscending" android:title="@string/sortByMovieNameAscending"></item>
+    <item android:id="@string/sortByMovieNameDescending" android:title="@string/sortByMovieNameDescending"></item><item android:id="@string/sortByYearAscending" android:title="@string/sortByYearAscending"></item><item android:id="@string/sortByYearDescending" android:title="@string/sortByYearDescending"></item>
+    <item android:id="@string/sortByRatingAscending" android:title="@string/sortByRatingAscending"></item>
+    
+    
+    <item android:id="@string/sortByRatingDescending" android:title="@string/sortByRatingDescending"></item>
+    
+</menu>
